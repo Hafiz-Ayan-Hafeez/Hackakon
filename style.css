@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+.font-nav{
+    font-size: 1.6rem;
+}
+.navbar{
+    font-size: 1.6rem;
+}
+.btn-menu{
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+
+.carausel{
+    padding: 50px 50px;    
+}
+.carausel-bold{
+    font-size: 2rem;
+    padding-left: 100px;
+}
+.p{
+    font-size: 1rem;
+}
+
+.btn-end{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.font{
+    font-size: 2rem;
+}
